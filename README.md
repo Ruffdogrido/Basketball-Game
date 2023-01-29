@@ -1,4 +1,3 @@
-# -Game
 # Guess The Phrase Game
 
 ## What is it?
