@@ -20,14 +20,14 @@ To play first press a number from 1 to 4 for the direction of the ball, then hit
 
 
 ## Features
-- [x]  show direction of ball
-- [x]  score points
-- [x]  sound effect when lose
-- [ ]  make ball with gravty effect to go into net
-- [ ]  add obstacles
-- [ ]  Soundeffect if get in
+- [x]  Show direction of ball
+- [x]  Score points
+- [x]  Sound effect when lose
+- [ ]  Make ball with gravty effect to go into net
+- [ ]  Add obstacles
+- [ ]  Sound effect if scored
 - [ ]  Restart button
-- [ ]  remove letters from horse if not scored
-- [ ]  have different levels to choose from
+- [ ]  Remove letters from horse if not scored
+- [ ]  Have different levels to choose from
 - [ ]  winner screen
 - [ ]  Multi player
